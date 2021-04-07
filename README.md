@@ -1,6 +1,6 @@
 # Rat-In-A-Maze--Backtracking-Algorithm
 Implementation(using Java) of one well-known CS problem, the "Rat in a maze", with backtracking. ATTENTION: In Uni we referred to this problem as Thiseas, due to the ancient Greek myth of Thiseas in the labyrinth trying to make his way out. That's why there is a file called Thiseas, which is the main file of the project, aka that is the one that you should runin order to check if the algorithm really works.
-So there are 6 .java files that are needed in order to implement this problem with backtracking. Of course someone could use the brute force method, but it would be much more time and meory consuming.
+So there are 6 .java files that are needed in order to implement this problem with backtracking. Of course someone could use the brute force method, but it would be much more time and memory consuming.
 In order to implement the backtracking, we are of course using a stack and a queue. We have created 2 files for the stack and 2 for the queue.
 
 Stack:
